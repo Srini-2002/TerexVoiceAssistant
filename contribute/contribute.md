@@ -1,0 +1,3 @@
+# TerexVoiceAssistant
+SourceFolder: src
+Modules:
